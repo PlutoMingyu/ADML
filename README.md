@@ -1,7 +1,7 @@
 Project ADML : Astronomical Datasets for Machine Learning
 ---------------------------------------------------------
 
-![ADML_Logo_Space_Bright](https://github.com/PlutoMingyu/ADML/blob/master/ADML_Logo/ADML_Logo_Space_Bright.png)
+![ADML_Logo_Space_Bright](https://github.com/PlutoMingyu/ADML/blob/master/ADML_Logo_Space_Bright.png)
 
 ### Project ADML is a project to design and construct an astronomy dataset for AI engineers, astronomers   and for everyone interested in AI and astronomy.
 
