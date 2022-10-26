@@ -40,4 +40,4 @@ Therefore, SGCP was still considered a valid problem to be solved, and the first
 별-은하 이미지 데이터셋은 별-은하 분류문제(SGCP, Star-Galaxy Classification Problem)의 성능 개선을 위해 설계 및 구축했습니다.   
 SGCP는 별과 은하의 형상적 유사함으로 인해 이미지에서 구분이 어려워 발생하는 천문학 분야에서 오랜기간 고민해오고 있는 문제 중 하나입니다. 관측 장비와 기술의 발전에 따라 우리는 더 어두운 대상을 볼 수 있게 되었고, 이는 구별해야하는 별과 은하의 크기가 보다 작아지고 어두워짐을 의미합니다.   
 따라서, SGCP는 여전히 유효한 해결해야할 문제라고 생각하게 되었고 이를 위한 첫번째 계단으로 별-은하 이미지 데이터셋을 설계 및 구축하게 되었습니다.   
->별-은하 이미지 데이터셋([**A Million Star-Galaxy Image Dataset**](https://github.com/PlutoMingyu/ADML/tree/master/Star-Galaxy%20Image%20Dataset))의 설명은 다음 문서에 더 자세히 설명되어 있습니다.
+>별-은하 이미지 데이터셋([**A Million Star-Galaxy Image Dataset**](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset))의 설명은 다음 문서에 더 자세히 설명되어 있습니다.
