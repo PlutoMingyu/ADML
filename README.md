@@ -3,7 +3,7 @@ Project ADML : Astronomical Datasets for Machine Learning
 
 ![ADML_Logo_Space_Bright](https://github.com/PlutoMingyu/ADML/blob/master/ADML_Logo_Space_Bright.png)
 
-### Project ADML is a project to design and construct an astronomy dataset for AI engineers, astronomers   and for everyone interested in AI and astronomy.
+### Project ADML is a project to design and build an astronomy dataset for AI engineers, astronomers   and for everyone interested in AI and astronomy.
 
 ### ADML은 AI 엔지니어와 천문학자, 천문학 및 AI에 관심이 있는 모두를 위한    천문학 데이터셋 설계 및 구축 프로젝트입니다.   
 
@@ -16,16 +16,16 @@ Project ADML : Astronomical Datasets for Machine Learning
 
 > Guide of ADML, English Ver.
 # 1. Introduction
-## 1.1. Background of AMDL's Design & Construction   
-With the development of science and technology, the scale of astronomical data continues to increase. However, the processing methods and analysis results of astronomical data are insufficient. To compensate for this, engineers are applying artificial intelligence algorithms, but most of the research is being conducted abroad. This is thought to be because data in the field of astronomy and how it is used are not well known in Korea. I started a project to construct an astronomical dataset to make it easier to use astronomy data.   
+## 1.1. Background of AMDL's Design & Build   
+With the development of science and technology, the scale of astronomical data continues to increase. However, the processing methods and analysis results of astronomical data are insufficient. To compensate for this, engineers are applying artificial intelligence algorithms, but most of the research is being conducted abroad. This is thought to be because data in the field of astronomy and how it is used are not well known in Korea. I started a project to build an astronomical dataset to make it easier to use astronomy data.   
 The first dataset is the Star-Galaxy Image Dataset.   
 
 ## 1.2. A Million Star-Galaxy Image Dataset  
 
-A Million Star-Galaxy Image Dataset is design and construct to improve the performance of the Star-Galaxy Classification Problem (SGCP).
+A Million Star-Galaxy Image Dataset is design and build to improve the performance of the Star-Galaxy Classification Problem (SGCP).
 SGCP is a traditional problem in astronomy, which is difficult to distinguish in images due to the geometrical similarity between stars and galaxies.   
 Advances in observing equipment and technology have allowed us to see darker objects, which means is that stars and galaxies images become darker and smaller.
-Therefore, SGCP was still considered a valid problem to be solved, and the first step toward this was to design and construct a Star-Galaxy Image Dataset.   
+Therefore, SGCP was still considered a valid problem to be solved, and the first step toward this was to design and build a Star-Galaxy Image Dataset.   
 
 > Description : [**A Million Star-Galaxy Image Dataset**](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset)
 --------------------------------------------------------------------------------
