@@ -27,7 +27,7 @@ SGCP is a traditional problem in astronomy, which is difficult to distinguish in
 Advances in observing equipment and technology have allowed us to see darker objects, which means is that stars and galaxies images become darker and smaller.
 Therefore, SGCP was still considered a valid problem to be solved, and the first step toward this was to design and build a Star-Galaxy Image Dataset.   
 
-> Description : [**A Million Star-Galaxy Image Dataset**](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset)
+> More Description : [**A Million Star-Galaxy Image Dataset**](https://github.com/PlutoMingyu/A-Million-Star-Galaxy-Image-Dataset)
 --------------------------------------------------------------------------------
 
 > ADML의 한글 버전 가이드입니다.
